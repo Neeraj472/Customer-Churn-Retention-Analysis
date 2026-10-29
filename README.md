@@ -34,12 +34,12 @@ The dataset contains customer information such as customer ID, gender, location,
 
 ## 📈 Key Performance Indicators (KPIs)
 
-| KPI | Result |
-|---|---:|
-| Total Customers | 492 |
-| Churned Customers | 116 |
-| Retained Customers | 374 |
-| Customer Churn Rate | 23.58% |
+| KPI                     | Result |
+| ----------------------- | -----: |
+| Total Customers         |    492 |
+| Churned Customers       |    116 |
+| Retained Customers      |    374 |
+| Customer Churn Rate     | 23.58% |
 | Average Monthly Charges | ₹1.36K |
 
 *These values are from the current dashboard. The currency and unit for monthly charges should be verified against the dataset source.*
@@ -102,14 +102,10 @@ Customer-Churn-Analysis/
 ├── data/
 │   └── Cleaned_churn_data.csv
 │
-├── notebooks/
-│   └── Customer_Churn_Analysis.ipynb
+├──  Customer_Churn_Analysis.ipynb
 │
 ├── dashboard/
 │   └── Customer_Churn_Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
 │
 └── README.md
 ```
@@ -134,7 +130,7 @@ B.Tech – Computer Science and Engineering (AI & ML)
 **Skills:** Python | Pandas | SQL | Power BI | Data Analysis
 
 - GitHub: [Neeraj472](https://github.com/Neeraj472)
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: [(20) Neeraj . | LinkedIn](https://www.linkedin.com/in/neeraj-a2b198360/)
 
 ---
 
